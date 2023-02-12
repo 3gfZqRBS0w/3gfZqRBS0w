@@ -5,4 +5,4 @@ I'm a beginner back-end developer, passionate and open to any recommendations an
 
 ### Salut à toi
 
-Je suis un développeur back-end débutant, passionné et a l'écoute de toutes recommandations et conseils pour continuer à évoluer dans ce domaine. Mon objectif est de travailler sur des projets passionnants et de relever des défis de plus en plus stimulants pour développer mes compétences et a me professionnaliser.
+Je suis un développeur back-end débutant, passionné et a l'écoute de toutes recommandations et conseils pour continuer à évoluer dans ce domaine. Mon objectif est de travailler sur des projets passionnants et de relever des défis de plus en plus stimulants pour développer mes compétences et continuer a me professionnaliser.
